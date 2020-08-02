@@ -1,0 +1,49 @@
+#topbar{
+    background-color: lightgrey;
+}
+ul{
+    list-style-type: none;
+    padding-top: 0px;
+    margin: 0;
+    padding-left: 180px;;
+    overflow: hidden;
+    background-color: lightgrey;
+    word-spacing: 150px;
+}
+li{
+    float: left;
+}
+li a{
+    display: block;
+    padding: 8px;
+}
+#page{
+    padding-left: 180px;
+}
+h5{
+    padding-left: 180px;
+}
+#subhead{
+    font-size: 10px;
+    color: green;
+}
+#subtitle{
+    font-size: 20px;
+    color: blue;
+}
+#subtext{
+    font-size: 10px;
+    color: black;
+}
+.input ,select{
+    width: 500px;
+    padding: 3px 3px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid black;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+#space{
+    line-height: 10px;
+}

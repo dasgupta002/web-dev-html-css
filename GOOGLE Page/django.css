@@ -1,0 +1,45 @@
+#topbar{
+    font: verdana;
+    font-size: 15px;
+    width: auto;
+    word-spacing: 50px;
+}
+#crumb{
+    width: auto;
+    text-align: center;
+    padding-top: 150px;
+    padding-bottom: 189px;
+}
+#image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+input{
+    background-color: white;
+    background-image: url('searchicon.png');
+    background-position: 3px 5px;
+    background-repeat: no-repeat;
+    padding-left: 10px;
+    width: 30%;
+    height: 6%;
+}
+.button {
+    background-color: bisque;
+    border: none;
+    color: black;
+    padding: 10px 22px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 10px;
+}
+#bottombar{
+    background-color: lightgrey;
+    width: auto;
+    font: verdana;
+    font-size: 15px;
+    word-spacing: 50px;
+    height: 25px;
+    padding-top: 5px;
+}
