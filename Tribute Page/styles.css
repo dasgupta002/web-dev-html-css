@@ -1,0 +1,28 @@
+#heading{
+    background-color:beige;
+    width:auto;
+    height:70px;
+    font: georgia;
+    font-size:40px;
+    text-align: center;
+    font-weight: bold;
+    padding-top: 20px;
+}
+#just{
+  font: verdana;
+  font-size:15px;
+  font-weight: normal;
+}
+.image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+#text{
+    column-count:4;
+    column-gap: 10px;
+    column-rule: 1px double black;
+    font: lucida;
+    font-size: 10px;
+}
